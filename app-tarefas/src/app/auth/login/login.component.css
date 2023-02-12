@@ -1,0 +1,33 @@
+.card-login {
+  background-color: white;
+  max-width: 500px;
+  height: 500px;
+  margin: auto;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.card-title {
+  padding: 30px;
+  display: block;
+}
+
+.form-field {
+  width: 400px;
+  color: aqua;
+}
+
+
+@media (max-width: 600px) {
+  .form-field {
+    width: 400px;
+    background-color: aquamarine;
+  }
+}
+
+@media (max-width: 450px) {
+  .form-field {
+    width: 300px;
+    background-color: aquamarine;
+  }
+}
