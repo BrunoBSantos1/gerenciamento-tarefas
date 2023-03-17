@@ -14,20 +14,17 @@
 
 .form-field {
   width: 400px;
-  color: aqua;
 }
 
 
 @media (max-width: 600px) {
   .form-field {
     width: 400px;
-    background-color: aquamarine;
   }
 }
 
 @media (max-width: 450px) {
   .form-field {
     width: 300px;
-    background-color: aquamarine;
   }
 }
